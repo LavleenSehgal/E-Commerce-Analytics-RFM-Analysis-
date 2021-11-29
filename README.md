@@ -5,4 +5,5 @@ E-commerce stores which became success stories were successful in targeting the 
 #Data and Problem Detail
 Your organization has asked you to draw meaningful insights from 2 years of data & provide brief details based on the monetary value, frequency of buy, etc.
 
-#Objective: Build an unsupervised learning model which can enable your company to analyze their customers via RFM (Recency, Frequency and Monetary value) approach.
+#Objective: 
+Build an unsupervised learning model which can enable your company to analyze their customers via RFM (Recency, Frequency and Monetary value) approach.
